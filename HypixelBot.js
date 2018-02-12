@@ -1,3 +1,9 @@
+/*
+	By downloading and using this bot, you accept that I, 
+	the creator, cannot be held responsible for any 
+	punishment that may be given to you on behalf of this bot.
+*/
+
 const mc = require('minecraft-protocol');
 const fs = require('fs');
 
