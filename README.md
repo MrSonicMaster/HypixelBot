@@ -1,12 +1,8 @@
 # HypixelBot
 
-##
-
 ##### HypixelBot is an automated proof of concept Minecraft bot to win games/coins for the popular Minecraft server, Hypixel. This bot is bannable for 'statistic boosting,' and I don't suggest you use it.
 
 # Setup
-
-##
 
 #### This bot is writted in NodeJS, therefore you must have NodeJS installed to your computer to use it. You can download NodeJS [here](https://nodejs.org/en/).
 
@@ -15,8 +11,6 @@
     npm install node-minecraft-protocol
 
 # Usage
-
-##
 
 ##### To run the bot, type
 
